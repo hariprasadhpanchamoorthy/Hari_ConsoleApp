@@ -1,0 +1,5 @@
+D:\Hari\Personal\Backend Code Test\GITHUB\Travel-Republic-Test-master\Flights.Domain\bin\Debug\Flights.Domain.dll
+D:\Hari\Personal\Backend Code Test\GITHUB\Travel-Republic-Test-master\Flights.Domain\bin\Debug\Flights.Domain.pdb
+D:\Hari\Personal\Backend Code Test\GITHUB\Travel-Republic-Test-master\Flights.Domain\obj\Debug\Flights.Domain.csproj.CoreCompileInputs.cache
+D:\Hari\Personal\Backend Code Test\GITHUB\Travel-Republic-Test-master\Flights.Domain\obj\Debug\Flights.Domain.dll
+D:\Hari\Personal\Backend Code Test\GITHUB\Travel-Republic-Test-master\Flights.Domain\obj\Debug\Flights.Domain.pdb

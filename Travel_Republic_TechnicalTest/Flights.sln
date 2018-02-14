@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flights.Console", "Flights.Console\Flights.Console.csproj", "{6A24A542-DD7C-4BF7-A88D-3FCE234B9876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flights.Domain", "Flights.Domain\Flights.Domain.csproj", "{A6A1D7BB-32E0-4BB3-8215-B5F3CA55BC28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A24A542-DD7C-4BF7-A88D-3FCE234B9876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A24A542-DD7C-4BF7-A88D-3FCE234B9876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A24A542-DD7C-4BF7-A88D-3FCE234B9876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A24A542-DD7C-4BF7-A88D-3FCE234B9876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A1D7BB-32E0-4BB3-8215-B5F3CA55BC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A1D7BB-32E0-4BB3-8215-B5F3CA55BC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A1D7BB-32E0-4BB3-8215-B5F3CA55BC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A1D7BB-32E0-4BB3-8215-B5F3CA55BC28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {180413D9-1834-462C-A80F-3A502FCE0D8E}
+	EndGlobalSection
+EndGlobal
